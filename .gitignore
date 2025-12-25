@@ -7,3 +7,4 @@ test.ipynb
 visualizations
 mainVisualizations.py
 dreamerVisual.py
+wandb

@@ -495,3 +495,22 @@
 2025-12-25 06:29:11,424 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: partial_history
 2025-12-25 06:29:12,428 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
 2025-12-25 06:29:13,233 INFO    Thread-16 :19536 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\mohab\Desktop\Uni\Courses\Year 5 -1st term\RL\Ass5\NaturalDreamer-agent\wandb\run-20251225_061419-hghglhi9\files\output.log
+2025-12-25 06:29:17,478 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
+2025-12-25 06:29:21,616 DEBUG   SenderThread:19536 [sender.py:send():378] send: stats
+2025-12-25 06:29:22,138 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: stop_status
+2025-12-25 06:29:22,138 DEBUG   SenderThread:19536 [sender.py:send_request():405] send_request: stop_status
+2025-12-25 06:29:23,387 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: partial_history
+2025-12-25 06:29:23,388 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
+2025-12-25 06:29:25,336 INFO    Thread-16 :19536 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\mohab\Desktop\Uni\Courses\Year 5 -1st term\RL\Ass5\NaturalDreamer-agent\wandb\run-20251225_061419-hghglhi9\files\output.log
+2025-12-25 06:29:28,427 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
+2025-12-25 06:29:28,466 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: partial_history
+2025-12-25 06:29:29,377 INFO    Thread-16 :19536 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\mohab\Desktop\Uni\Courses\Year 5 -1st term\RL\Ass5\NaturalDreamer-agent\wandb\run-20251225_061419-hghglhi9\files\output.log
+2025-12-25 06:29:33,521 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
+2025-12-25 06:29:37,063 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: partial_history
+2025-12-25 06:29:37,158 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: stop_status
+2025-12-25 06:29:37,158 DEBUG   SenderThread:19536 [sender.py:send_request():405] send_request: stop_status
+2025-12-25 06:29:39,422 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
+2025-12-25 06:29:39,500 INFO    Thread-16 :19536 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\mohab\Desktop\Uni\Courses\Year 5 -1st term\RL\Ass5\NaturalDreamer-agent\wandb\run-20251225_061419-hghglhi9\files\output.log
+2025-12-25 06:29:42,133 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: partial_history
+2025-12-25 06:29:43,552 INFO    Thread-16 :19536 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\mohab\Desktop\Uni\Courses\Year 5 -1st term\RL\Ass5\NaturalDreamer-agent\wandb\run-20251225_061419-hghglhi9\files\output.log
+2025-12-25 06:29:45,157 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status_report
