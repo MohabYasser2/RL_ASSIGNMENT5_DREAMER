@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.7",
+    "heartbeatAt": "2025-12-24T22:02:11.073918",
+    "startedAt": "2025-12-24T22:02:09.204022",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\mohab\\Desktop\\Uni\\Courses\\Year 5 -1st term\\RL\\Ass5\\NaturalDreamer-agent\\main.py",
+    "codePathLocal": "main.py",
+    "codePath": "main.py",
+    "host": "DESKTOP-FT5AR5G",
+    "username": "mohab",
+    "executable": "C:\\Users\\mohab\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.9453086853027,
+            "used": 882.2797164916992
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.93581771850586
+    }
+}

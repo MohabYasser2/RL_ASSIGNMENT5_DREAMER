@@ -1,0 +1,5 @@
+2025-12-25 06:14:19,470 INFO    StreamThr :19536 [internal.py:wandb_internal():85] W&B internal server running at pid: 19536, started at: 2025-12-25 06:14:19.469526
+2025-12-25 06:14:19,472 DEBUG   HandlerThread:19536 [handler.py:handle_request():158] handle_request: status
+2025-12-25 06:14:19,475 INFO    WriterThread:19536 [datastore.py:open_for_write():87] open: C:\Users\mohab\Desktop\Uni\Courses\Year 5 -1st term\RL\Ass5\NaturalDreamer-agent\wandb\run-20251225_061419-hghglhi9\run-hghglhi9.wandb
+2025-12-25 06:14:19,475 DEBUG   SenderThread:19536 [sender.py:send():378] send: header
+2025-12-25 06:14:19,478 DEBUG   SenderThread:19536 [sender.py:send():378] send: run

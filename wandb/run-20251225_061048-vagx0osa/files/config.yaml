@@ -1,0 +1,140 @@
+wandb_version: 1
+
+environmentName:
+  desc: null
+  value: SpaceInvadersNoFrameskip-v4
+runName:
+  desc: null
+  value: YourRunName
+seed:
+  desc: null
+  value: 1
+gradientSteps:
+  desc: null
+  value: 60000
+replayRatio:
+  desc: null
+  value: 100
+saveMetrics:
+  desc: null
+  value: true
+saveCheckpoints:
+  desc: null
+  value: true
+checkpointInterval:
+  desc: null
+  value: 2000
+resume:
+  desc: null
+  value: false
+checkpointToLoad:
+  desc: null
+  value: 50k
+episodesBeforeStart:
+  desc: null
+  value: 5
+numInteractionEpisodes:
+  desc: null
+  value: 1
+numEvaluationEpisodes:
+  desc: null
+  value: 1
+dreamer:
+  desc: null
+  value:
+    batchSize: 32
+    batchLength: 64
+    imaginationHorizon: 15
+    recurrentSize: 512
+    latentLength: 16
+    latentClasses: 16
+    encodedObsSize: 1024
+    useContinuationPrediction: false
+    actorLR: 4.0e-05
+    criticLR: 0.0001
+    worldModelLR: 0.0002
+    gradientNormType: 2
+    gradientClip: 100
+    discount: 0.997
+    lambda_: 0.95
+    freeNats: 1
+    betaPrior: 1.0
+    betaPosterior: 0.1
+    entropyScale: 0.0003
+    buffer:
+      capacity: 50000
+    encoder:
+      depth: 16
+      stride: 2
+      kernelSize: 4
+      activation: Tanh
+    decoder:
+      depth: 16
+      stride: 2
+      kernelSize: 5
+      activation: Tanh
+    recurrentModel:
+      hiddenSize: 200
+      activation: Tanh
+    priorNet:
+      hiddenSize: 200
+      numLayers: 2
+      activation: Tanh
+      uniformMix: 0.01
+    posteriorNet:
+      hiddenSize: 200
+      numLayers: 2
+      activation: Tanh
+      uniformMix: 0.01
+    reward:
+      hiddenSize: 400
+      numLayers: 2
+      activation: Tanh
+    continuation:
+      hiddenSize: 400
+      numLayers: 3
+      activation: Tanh
+    actor:
+      hiddenSize: 400
+      numLayers: 2
+      activation: Tanh
+    critic:
+      hiddenSize: 400
+      numLayers: 3
+      activation: Tanh
+folderNames:
+  desc: null
+  value:
+    metricsFolder: metrics
+    plotsFolder: plots
+    checkpointsFolder: checkpoints
+    videosFolder: videos
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.7
+    cli_version: 0.17.0
+    framework: huggingface
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1766635848
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 11
+      - 49
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      - 61
+      4: 3.11.7
+      5: 0.17.0
+      8:
+      - 3
+      - 5
+      13: windows-amd64

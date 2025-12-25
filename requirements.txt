@@ -1,0 +1,8 @@
+gymnasium
+torch
+numpy
+imageio
+pandas
+plotly
+attridict
+wandb

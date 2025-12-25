@@ -1,0 +1,5 @@
+
+Loading checkpoint: checkpoints\SpaceInvadersNoFrameskip-v4_YourRunName_14k.pth
+C:\Users\mohab\AppData\Local\Programs\Python\Python311\Lib\site-packages\gymnasium\utils\passive_env_checker.py:335: UserWarning: [33mWARN: No render fps was declared in the environment (env.metadata['render_fps'] is None or not defined), rendering may occur at inconsistent fps.
+  logger.warn(
+Evaluation avg score: 198.00
