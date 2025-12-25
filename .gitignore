@@ -8,3 +8,4 @@ visualizations
 mainVisualizations.py
 dreamerVisual.py
 wandb
+*.log
