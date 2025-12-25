@@ -9,3 +9,9 @@ mainVisualizations.py
 dreamerVisual.py
 wandb
 *.log
+*.wandb
+*.csv
+*.h5
+*.ckpt
+*.pth
+*.pt
